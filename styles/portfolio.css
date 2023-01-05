@@ -15,6 +15,22 @@
     border-radius: 5px;
     background-color: #FD6E0A;
 }
+.btn-contact{
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 28px;
+    height: 64px;
+    border-radius: 5px;
+    background-color: #FFF8F3;
+    color: #FD6E0A;
+    border: 1px solid #FD6E0A;
+    margin-left: 30px;
+}
+.btn-contact:hover{
+    background-color: #FD6E0A;
+    color: #FFFFFF;
+}
 /* header and navigation styles */
 .header{
     background-color: #FFF8F3;
